@@ -4,6 +4,13 @@
 
 YouTube 영상의 URL만 입력하면 AI가 오디오를 추출하고 텍스트로 변환하여 내용을 요약하고 그에 맞는 시각적 썸네일을 자동 생성해 주는 LangChain Agent 기반 PoC(Proof of Concept) 프로젝트입니다.
 
+<img width="1920" height="950" alt="Image" src="https://github.com/user-attachments/assets/ec52e39a-2a84-4616-9ad8-ec391193af62" />
+
+<img width="1918" height="955" alt="Image" src="https://github.com/user-attachments/assets/d09ecbf4-b49c-442f-9dd6-ddc0b6d3c0f2" />
+
+<img width="1920" height="947" alt="Image" src="https://github.com/user-attachments/assets/6d2f56e3-b8eb-4320-8d92-eaee426b028d" />
+
+
 ## 프로젝트 개요
 
 - **개발 기간**: 2025.05 ~ 2025.06 (1인 개인 프로젝트)
